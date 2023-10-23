@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daatoo&label=Profile%20views&color=0e75b6&style=flat" alt="daatoo" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **davit.cheishvili01@gmail.com**
 
