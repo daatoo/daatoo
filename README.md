@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daatoo&show_icons=true&locale=en&theme=radical&layout=compact" alt="daatoo" /></p>
 
-<p>&nbsp;<img align="center" background-Color="#002348" src="https://github-readme-stats.vercel.app/api?username=daatoo&show_icons=true&locale=en" alt="daatoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daatoo&show_icons=true&locale=en&theme=radical" alt="daatoo" /></p>
 
