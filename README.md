@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Frameworks</h3>
-<p align="left">
+<p align="right">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" alt="Boostrap" width="50" height="50"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" alt="Flask" width="50" height="50"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="React" width="50" height="50"></a>
