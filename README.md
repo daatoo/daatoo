@@ -60,3 +60,5 @@ Other
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daatoo&show_icons=true&locale=en&theme=radical" alt="daatoo" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daatoo)](https://git.io/streak-stats)
+
