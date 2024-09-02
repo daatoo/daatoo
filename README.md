@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daatoo&label=Profile%20views&color=0e75b6&style=flat" alt="daatoo" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **davit.cheishvili.06@gmail.com**
 
